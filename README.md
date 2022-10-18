@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonxdao
-- 👀 I’m interested in learning more about coding! I am well versed in Tableau, where I have published a number of interactive dashboards.
+- 👀 I’m interested in learning more about coding! I am well versed in R, SQL, and Tableau!
 - 🌱 I’m currently learning so much more about Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via linkedin: https://www.linkedin.com/in/sonxuandao/
